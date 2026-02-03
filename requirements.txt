@@ -1,0 +1,6 @@
+tensorflow-macos==2.12.0
+tensorflow-metal
+keras==2.12.0
+numpy==1.23.5
+opencv-python==4.11.0.86
+matplotlib==3.7.1
